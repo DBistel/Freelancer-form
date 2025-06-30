@@ -1,0 +1,29 @@
+body {
+  text-emphasis: none; 
+  font-family: 'Times New Roman', Times, serif;
+  font-size: large;
+  background-color: antiquewhite;
+}
+
+table, th, td {
+  border: 1px solid black; 
+  border-collapse: collapse;
+} 
+
+table {
+  margin-left: 25%;
+  width: 50%;
+  background-color: #fffaf0; 
+}
+
+tr:hover {
+  background-color: orange;
+}
+
+div {
+  margin-left: 25%;
+  text-align: center;
+  font-weight: bold;
+  font-size: 1.2rem;
+  margin-bottom: 1rem;
+}
